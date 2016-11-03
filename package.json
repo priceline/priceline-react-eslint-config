@@ -1,0 +1,20 @@
+{
+  "name": "priceline-react-eslint-config",
+  "version": "1.0.0",
+  "description": "Priceline's eslint file for React projects",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pricelinelabs/priceline-react-eslint-config"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "eslint",
+    "priceline",
+    "react"
+  ],
+  "license": "MIT"
